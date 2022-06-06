@@ -28,3 +28,34 @@
 >---
 >
 >[https://github.com/Muhammad752](https://github.com/Muhammad752)
+>
+>## Courses
+>
+>---
+>
+>Web development (udemy)  
+>RS school(stage#0)(ongoing)
+>
+>## Skills
+>
+>---
+>
+>- HTML,CSS
+>- Javascript
+>- PHP,MySQL
+>
+>## Hobbies and interests
+>
+>---
+>
+>- Swimming
+>- IoT
+>- Python programming language
+>
+>---
+
+## Contacts
+
+- Address: *65 Shaykhontohur Street, Tashkent, Uzbekistan*
+- Mobile: *+998997989013*
+- Email: *madaminov.muhammadjon@mail.ru*
