@@ -1,0 +1,21 @@
+body{
+    width: 1000px;
+    margin:auto;
+    background-color: antiquewhite;
+}
+img.avatar{
+    position: absolute;
+    right: 10vw;
+    top: 10px;
+    border: 1px solid;
+    border-radius: 100px;
+}
+h2{
+    font-style: italic;
+}
+section{
+    margin: 20px;
+}
+div{
+    margin: 10px;
+}
