@@ -5,6 +5,7 @@ body{
 }
 img.avatar{
     position: absolute;
+    left: 800px;
     right: 10vw;
     top: 10px;
     border: 1px solid;
