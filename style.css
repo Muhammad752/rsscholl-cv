@@ -27,6 +27,9 @@ section{
     grid-column: 1/2;
     margin: 15px;
 }
+section h3{
+    font-weight: normal;
+}
 section div{
     margin: 15px;
 }
